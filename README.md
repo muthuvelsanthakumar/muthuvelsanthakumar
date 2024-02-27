@@ -18,12 +18,12 @@ Student by title, innovator by spirit. I wear two hats: Business & Data by day, 
 
 My expertise encompasses the following:
 
-[HTML & CSS](#) ![65%](https://img.shields.io/badge/HTML%20&%20CSS-65%25-blue)
-[Linux & Github](#) ![70%](https://img.shields.io/badge/Linux%20&%20Github-70%25-green)
-[AWS](#) ![60%](https://img.shields.io/badge/AWS-60%25-yellow)
-[Python](#) ![70%](https://img.shields.io/badge/Python-70%25-orange)
-[SQL](#) ![75%](https://img.shields.io/badge/SQL-75%25-red)
-[Excel & Power BI](#) ![90%](https://img.shields.io/badge/Excel%20&%20Power%20BI-90%25-brightgreen)
+[HTML & CSS]() ![65%](https://img.shields.io/badge/HTML%20&%20CSS-65%25-blue)
+[Linux & Github]() ![70%](https://img.shields.io/badge/Linux%20&%20Github-70%25-green)
+[AWS]() ![60%](https://img.shields.io/badge/AWS-60%25-yellow)
+[Python]() ![70%](https://img.shields.io/badge/Python-70%25-orange)
+[SQL]() ![75%](https://img.shields.io/badge/SQL-75%25-red)
+[Excel & Power point]() ![90%](https://img.shields.io/badge/Excel%20&%20Power%20BI-90%25-brightgreen)
 
 
 ## Domain Skills
