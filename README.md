@@ -52,7 +52,9 @@
 # Skills
 [![Web Development](https://img.shields.io/badge/Web%20Development-orange?style=for-the-badge&logo=html5&logoColor=white)](https://example.com/web-development)
 
-[![Cloud](https://img.shields.io/badge/Cloud-orange?style=for-the-badge&logo=cloud&logoColor=white)](https://example.com/cloud)
+[![Cloud (AWS)](https://img.shields.io/badge/Cloud-orange?style=for-the-badge&logo=cloud&logoColor=white)](https://example.com/cloud)
+
+[![Business Analyst & Consultant](https://img.shields.io/badge/Business_Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white)](https://example.com/business_analyst)
 
 [![Career Consulting](https://img.shields.io/badge/Career%20Consulting-orange?style=for-the-badge&logo=briefcase&logoColor=white)](https://example.com/career-consulting)
 
