@@ -32,7 +32,7 @@
 ### Backend
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.com/)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23092E20.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 
 ### Code editor
