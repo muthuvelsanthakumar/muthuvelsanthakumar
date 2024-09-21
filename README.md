@@ -27,7 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/firebase-%23092E20.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
@@ -36,7 +36,7 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-25D366?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### Cloud:
-![Azure](https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +46,7 @@
 
 # Skills:
 [![Web Development](https://img.shields.io/badge/Web%20Development-orange?style=for-the-badge&logo=html5&logoColor=white)](https://example.com/web-development)
-[![Cloud (Azure)](https://img.shields.io/badge/Cloud-orange?style=for-the-badge&logo=cloud&logoColor=white)](https://example.com/cloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 [![Business Analyst & Consultant](https://img.shields.io/badge/Business_Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white)](https://example.com/business_analyst)
 [![Career Consulting](https://img.shields.io/badge/Career%20Consulting-orange?style=for-the-badge&logo=briefcase&logoColor=white)](https://example.com/career-consulting)
 [![Communication](https://img.shields.io/badge/Communication-orange?style=for-the-badge&logo=communication&logoColor=white)](https://example.com/communication)
@@ -68,7 +68,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=muthuvelsanthakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Services:
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muthuvelsanthakumar&icon=0&color=0)](https://visitcount.itsvg.in)
