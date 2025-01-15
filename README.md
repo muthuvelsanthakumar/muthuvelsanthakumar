@@ -4,7 +4,7 @@
 👋 Hi, I’m Mv<br><br>
 👀 I’m interested in Cloud and DevOps<br><br>
 🌱 I’m currently a Web Developer<br><br>
-💞️ I’m looking to collaborate on Azure Cloud<br><br>
+💞️ I’m looking to collaborate on AWS Cloud<br><br>
 </p>
 
 ## ⭐ GitHub Statistics:
