@@ -54,7 +54,7 @@
 
 # Skills:
 [![Web Development](https://img.shields.io/badge/Web%20Development-orange?style=for-the-badge&logo=html5&logoColor=white)](https://example.com/web-development)
-![AWS](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0078D4?style=for-the-badge&logo=aws&logoColor=white)
 [![Business Analyst & Consultant](https://img.shields.io/badge/Business_Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white)](https://example.com/business_analyst)
 [![Devops](https://img.shields.io/badge/Career%20Consulting-orange?style=for-the-badge&logo=briefcase&logoColor=white)](https://example.com/career-consulting)
 [![Communication](https://img.shields.io/badge/Communication-orange?style=for-the-badge&logo=communication&logoColor=white)](https://example.com/communication)
