@@ -3,7 +3,7 @@
 <p align="left">
 👋 Hi, I’m Mv<br><br>
 👀 I’m interested in Cloud and DevOps<br><br>
-🌱 I’m currently a Web Developer<br><br>
+🌱 I’m currently a Cloud and Devops engineer  & Novice Full Stack Developer<br><br>
 💞️ I’m looking to collaborate on AWS Cloud<br><br>
 </p>
 
