@@ -36,7 +36,7 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-25D366?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### Cloud:
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0078D4?style=for-the-badge&logo=AWS&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
