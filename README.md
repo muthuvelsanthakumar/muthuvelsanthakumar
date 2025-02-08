@@ -46,9 +46,9 @@
 
 # Skills:
 [![Web Development](https://img.shields.io/badge/Web%20Development-orange?style=for-the-badge&logo=html5&logoColor=white)](https://example.com/web-development)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 [![Business Analyst & Consultant](https://img.shields.io/badge/Business_Analyst-blue?style=for-the-badge&logo=chart.js&logoColor=white)](https://example.com/business_analyst)
-[![Career Consulting](https://img.shields.io/badge/Career%20Consulting-orange?style=for-the-badge&logo=briefcase&logoColor=white)](https://example.com/career-consulting)
+[![Devops](https://img.shields.io/badge/Career%20Consulting-orange?style=for-the-badge&logo=briefcase&logoColor=white)](https://example.com/career-consulting)
 [![Communication](https://img.shields.io/badge/Communication-orange?style=for-the-badge&logo=communication&logoColor=white)](https://example.com/communication)
 [![Presentation](https://img.shields.io/badge/Presentation-orange?style=for-the-badge&logo=presentation&logoColor=white)](https://example.com/presentation)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge&logo=robot&logoColor=black&color=orange)](https://www.ibm.com/topics/prompt-engineering)
